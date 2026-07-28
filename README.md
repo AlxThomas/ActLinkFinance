@@ -1,4 +1,4 @@
-# Finance Tracker
+# ActLink Finance
 
 A small app for keeping track of your net worth, savings interest, and budget.
 It runs entirely on your own computer. Your numbers never leave the machine, and
@@ -37,8 +37,8 @@ as a **CSV** to play with in Excel or Numbers, and import it back at any time.
 
 Grab the latest version from the [Releases page](../../releases/latest):
 
-- **Windows:** download `FinanceTracker-Windows.exe`
-- **Mac:** download `FinanceTracker-macOS.zip`, unzip it, and move the app to
+- **Windows:** download `ActLinkFinance-Windows.exe`
+- **Mac:** download `ActLinkFinance-macOS.zip`, unzip it, and move the app to
   your Applications folder
 
 Each download has a matching `.sha256` file if you want to check it arrived
@@ -94,8 +94,8 @@ what you've entered, and everything recalculates as you change numbers.
 
 Everything you enter is saved on your own computer:
 
-- **Windows:** `%APPDATA%\FinanceTracker`
-- **Mac:** `~/Library/Application Support/FinanceTracker`
+- **Windows:** `%APPDATA%\ActLinkFinance`
+- **Mac:** `~/Library/Application Support/ActLinkFinance`
 
 Back up that folder and you've backed up everything. Nothing is stored in the
 cloud or sent to a server.
@@ -112,7 +112,7 @@ profiles and numbers are still there.
 To keep things tidy:
 
 - **Windows:** close the app first (Windows won't let you overwrite a program
-  while it's running), then save the new `FinanceTracker-Windows.exe` over the
+  while it's running), then save the new `ActLinkFinance-Windows.exe` over the
   old one, or delete the old one whenever you like. You don't have to delete it
   for the new version to work.
 - **Mac:** unzip the new download and drag the app into Applications. When it
